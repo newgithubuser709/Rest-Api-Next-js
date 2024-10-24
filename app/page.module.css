@@ -1,0 +1,33 @@
+/* section  */
+
+.section {
+    padding: 80px 0;
+    text-align: center;
+}
+
+.sect_h1 {
+    text-transform: capitalize;
+    font-size: 30px;
+    padding-bottom: 30px;
+}
+
+.sect_p {
+    padding-bottom: 25px;
+    font-size: 15px;
+}
+
+.button {
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    font-size: 14px;
+    padding: 10px 30px;
+    border: 2px solid black;
+    transition: 0.3s ease;
+    margin: 30px 0;
+}
+
+.button:hover {
+    background: transparent;
+    color: black;
+}

@@ -1,0 +1,21 @@
+.nav {
+    width: 100%;
+    padding: 15px;
+}
+
+.nav_ul {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav_ul li a {
+    color: black;
+    margin: 0 10px;
+    padding: 5px 10px;
+}
+
+.nav_ul li a:hover {
+    color: gray;
+}
